@@ -1,0 +1,9 @@
+{
+  "name": "deriv-trading-bot",
+  "version": "1.0.0",
+  "description": "Simple low-risk Deriv trading bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
